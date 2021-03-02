@@ -1,6 +1,6 @@
 # Flashcards
 
-Simple "flashcard" app for studying
+Simple "flashcard" app for studying with random order each run
 
 [Repl.it demo](https://repl.it/@bunchofdata/German-1)
 
